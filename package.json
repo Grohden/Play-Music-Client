@@ -1,0 +1,10 @@
+{
+  "main": "main.js",
+  "name": "app",
+  "version" : "0.0.1",
+  "dependencies": {
+    "request": "latest",
+    "windows.storage": "latest",
+    "windows.system.userprofile": "latest"
+  }
+}
